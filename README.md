@@ -2,7 +2,7 @@
 
 SQL: Employee Tracker
 
-Our job was to create an interface that allow non-developers to easily view and interact with information stored in databases. These interfaces are called content management systems (CMS). 
+Our job was to create an interface that allows non-developers to easily view and interact with information stored in databases. These interfaces are called content management systems (CMS). 
 We built a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 Walkthrough videos can be seen at the bottom of the page!
 
@@ -33,3 +33,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 
 
+![Screenshot (366)](https://user-images.githubusercontent.com/83887301/139542958-c9174ab8-aca9-4ed1-9860-7672ed8acbad.png)
+![Screenshot (365)](https://user-images.githubusercontent.com/83887301/139542959-58ee65a1-2428-4310-86d2-b5bd59f27a75.png)
+https://watch.screencastify.com/v/OrGVCwLkgcmqbIObvAVZ
+https://watch.screencastify.com/v/Tke9sYNVqTTLLD1wV1KL
